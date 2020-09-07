@@ -5,3 +5,31 @@
 2020-05-26T15:02:29.571-0500 INFO ....registerStompEndpoints
 2020-05-26T15:02:29.613-0500 INFO ....configureMessageBroker
 2020-05-26T15:02:30.187-0500 INFO Started Mark01Application in 7.329 seconds (JVM running for 9.01)
+2020-09-07T12:53:42.636-0500 INFO >>Inicia programa Mark....
+2020-09-07T12:53:44.103-0500 INFO Starting Mark01Application on VaiO-VAIO with PID 6484 (C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01\target\classes started by VaiO in C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01)
+2020-09-07T12:53:44.113-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-09-07T12:53:44.114-0500 INFO The following profiles are active: contenedorext
+2020-09-07T12:59:35.863-0500 INFO >>Inicia programa Mark....
+2020-09-07T12:59:37.673-0500 INFO Starting Mark01Application on VaiO-VAIO with PID 16080 (C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01\target\classes started by VaiO in C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01)
+2020-09-07T12:59:37.683-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-09-07T12:59:37.684-0500 INFO The following profiles are active: local
+2020-09-07T13:04:37.456-0500 INFO >>Inicia programa Mark....
+2020-09-07T13:04:38.577-0500 INFO Starting Mark01Application on VaiO-VAIO with PID 6656 (C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01\target\classes started by VaiO in C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01)
+2020-09-07T13:04:38.584-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-09-07T13:04:38.585-0500 INFO The following profiles are active: local
+2020-09-07T13:07:07.875-0500 INFO >>Inicia programa Mark....
+2020-09-07T13:07:09.266-0500 INFO Starting Mark01Application on VaiO-VAIO with PID 13804 (C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01\target\classes started by VaiO in C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01)
+2020-09-07T13:07:09.288-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-09-07T13:07:09.289-0500 INFO The following profiles are active: local
+2020-09-07T13:13:46.611-0500 INFO >>Inicia programa Mark....
+2020-09-07T13:13:47.802-0500 INFO Starting Mark01Application on VaiO-VAIO with PID 10300 (C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01\target\classes started by VaiO in C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01)
+2020-09-07T13:13:47.807-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-09-07T13:13:47.810-0500 INFO The following profiles are active: local
+2020-09-07T13:19:51.133-0500 INFO >>Inicia programa Mark....
+2020-09-07T13:19:52.379-0500 INFO Starting Mark01Application on VaiO-VAIO with PID 7664 (C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01\target\classes started by VaiO in C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01)
+2020-09-07T13:19:52.390-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-09-07T13:19:52.391-0500 INFO The following profiles are active: contenedorext
+2020-09-07T14:48:00.837-0500 INFO >>Inicia programa Mark....
+2020-09-07T14:48:01.614-0500 INFO Starting Mark01Application on VaiO-VAIO with PID 15376 (C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01\target\classes started by VaiO in C:\Users\VaiO\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Mark01)
+2020-09-07T14:48:01.623-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-09-07T14:48:01.625-0500 INFO The following profiles are active: local
